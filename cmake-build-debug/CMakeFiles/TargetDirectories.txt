@@ -1,0 +1,3 @@
+C:/Users/zjjhg/Desktop/AT32F403A_Clion_Template/cmake-build-debug/CMakeFiles/AT32F403A_Clion.elf.dir
+C:/Users/zjjhg/Desktop/AT32F403A_Clion_Template/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zjjhg/Desktop/AT32F403A_Clion_Template/cmake-build-debug/CMakeFiles/rebuild_cache.dir
