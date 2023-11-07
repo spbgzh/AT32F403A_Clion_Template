@@ -51,7 +51,7 @@ int main(void)
 
     while(1)
     {
-        printf("usart printf counter: %u\r\n",time_cnt++);
+        printf("usart printf counter: %lu\r\n",time_cnt++);
         delay_sec(1);
     }
 }

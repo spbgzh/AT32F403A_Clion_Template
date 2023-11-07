@@ -58,16 +58,15 @@ include_directories(project/inc
                     project/board
                     libraries/cmsis/cm4/core_support
                     libraries/cmsis/cm4/device_support
-                    libraries/drivers/inc
-        )
+                    libraries/drivers/inc)
 
 add_definitions(-DAT_START_F403A_V1 -DAT32F403ACGU7 -DUSE_STDPERIPH_DRIVER)
 
 file(GLOB_RECURSE SOURCES
-        "project/src/*.*"
-                          "project/board/*.*"
-                          "libraries/cmsis/cm4/device_support/*.*"
-                          "libraries/drivers/src/*.*")
+    "project/src/*.*"
+    "project/board/*.*"
+    "libraries/cmsis/cm4/device_support/*.*"
+    "libraries/drivers/src/*.*")
 
 set(LINKER_SCRIPT ${CMAKE_SOURCE_DIR}/project/misc/AT32F403AxG_FLASH.ld)
 
