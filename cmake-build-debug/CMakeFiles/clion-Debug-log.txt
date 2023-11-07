@@ -14,6 +14,6 @@ C:\Users\zjjhg\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCM
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
 -- Minimal optimization, debug info included
--- Configuring done (2.0s)
+-- Configuring done (1.8s)
 -- Generating done (0.0s)
 -- Build files have been written to: C:/Users/zjjhg/Desktop/AT32F403A_Clion_Template/cmake-build-debug
